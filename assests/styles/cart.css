@@ -1,20 +1,20 @@
 /* BASE */
-@import url(base/_variable.css);
-@import url(base/_font-face.css);
-@import url(base/_reset.css);
-@import url(base/_utilities.css);
+@import url(../styles/base/_variable.css);
+@import url(../styles/base/_font-face.css);
+@import url(../styles/base/_reset.css);
+@import url(../styles/base/_utilities.css);
 
 /* Components */
-@import url(components/_menu.css);
-@import url(components/_breadcrumb.css);
-@import url(components/_alert.css);
+@import url(../styles/components/_menu.css);
+@import url(../styles/components/_breadcrumb.css);
+@import url(../styles/components/_alert.css);
 
 /* Layout */
-@import url(layouts/_header.css);
-@import url(layouts/__footer.css);
+@import url(../styles/layouts/_header.css);
+@import url(../styles/layouts/__footer.css);
 
 
 
 /* Pages */
-@import url(pages/_cart.css);
+@import url(../styles/pages/_cart.css);
 
